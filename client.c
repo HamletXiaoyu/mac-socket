@@ -3,7 +3,7 @@
  * Created: Mon Dec 25 11:18:05 2017 (+0800)
  */
 
-/* Copyright 郑丁方.
+/* Copyright Hamlet_Jiaxiaoyu.
  * 
  * 允许免费使用，拷贝，修改，发布，但在所有的拷贝上必须保留上述
  * copyright部分和本使用声明部分，除非显示声明，copyright的持有者

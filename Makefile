@@ -12,6 +12,6 @@ client.o : client.c
 	g++ -c client.c
 
 clean:
-	rm *.o
-	rm server
-	rm client
+	-rm *.o
+	-rm server
+	-rm client
